@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Sistemas De Informções** no <a href="https://www.ifgoiano.edu.br/home/index.php/urutai.html">IF Goiano - Campus Urutaí</a>.
 - 💼 &nbsp; A procura de Vaga de Desenvolvimento
-- 🌱 &nbsp; Aprendendo mais sobre **Spring Boot(Java) / JavaScript**.
+- 🌱 &nbsp; Aprendendo mais sobre **Spring Boot(Java) / Angular / Node.js**.
 
 <h3>Minhas Skills</h3>
 
@@ -16,6 +16,7 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 **DevOps**
 
